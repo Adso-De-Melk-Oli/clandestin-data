@@ -1,0 +1,2021 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-26T19:16:16+00:00",
+  "source": "Carte Clandestin - modele.docx",
+  "itemCount": 103,
+  "notes": [
+    "L’abus d’alcool est dangereux pour la santé. À consommer avec modération.",
+    "La maison n’accepte plus les chèques."
+  ],
+  "universes": [
+    {
+      "name": "Boissons",
+      "notes": [],
+      "sections": [
+        {
+          "name": "Vins",
+          "notes": [],
+          "groups": [
+            {
+              "name": "Rouges",
+              "notes": [],
+              "items": [
+                {
+                  "id": "vins-rouges-le-cellier-des-chartreux-chamasutra",
+                  "name": "Le Cellier des Chartreux – Chamasûtra",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 4.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 24.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "IGP Gard",
+                  "grapes": "Merlot, Syrah",
+                  "description": "Arômes de fruits rouges, de fraises des bois et des notes vanillées et toastées. Tanins souples et amples.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-le-clos-delle-sur-la-comete",
+                  "name": "Le Clos d’Elle – Sur la comète",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "Vin de France",
+                  "grapes": "100% Cinsault",
+                  "description": "Le vin des copains : souple, légèrement poivré, rafraîchissant et note de petits fruits rouges en fin de bouche.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-de-roquemale-meli-melo",
+                  "name": "Domaine de Roquemale – Meli Melo",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 28.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP Vin de Pays de l’Hérault (sur le terroir des Grès de Montpellier)",
+                  "grapes": "50% Alicante Bouschet, 30% Syrah, 20% Cinsault",
+                  "description": "Éclatant, gourmand, fruité. Une bouche croquante et acidulée.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-guinand-cuvee-vieilles-vignes",
+                  "name": "Domaine Guinand – Cuvée Vieilles Vignes",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 28.0
+                    }
+                  ],
+                  "labels": [
+                    "Agriculture raisonnée"
+                  ],
+                  "appellation": "AOP Coteaux du Languedoc Terroir Saint Christol",
+                  "grapes": "60% Syrah, 10% Carignan, 20% Mourvèdre, 10% Grenache",
+                  "description": "Belle structure ronde, veloutée et fondue. Tanins fondus et soyeux. Vin élégant.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-chateau-lancyre-le-clos-des-combes",
+                  "name": "Château Lancyre – Le Clos des Combes",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 30.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "AOP Pic Saint Loup",
+                  "grapes": "50% Syrah, 50% Grenache",
+                  "description": "Nez sur des notes fumées, bouche ronde, fruitée et riche. Tanins très soyeux et ronds.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-clos-du-serres-cuvee-saint-jean",
+                  "name": "Clos du Serres – Cuvée Saint Jean",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "AOP Terrasses du Larzac",
+                  "grapes": "25% Œillade, 25% Cinsault, 25% Syrah, 25% Grenache",
+                  "description": "Notes de petits fruits rouges avec une belle finale épicée et fraîche, des tanins fins et soyeux.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-girard-pinot-noir",
+                  "name": "Domaine Girard – Pinot Noir",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Pinot Noir",
+                  "description": "Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-le-clos-delle-lentrecoeur-rouge",
+                  "name": "Le Clos d’Elle – L’Entrecoeur rouge",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "AOC Languedoc",
+                  "grapes": "40% Syrah, 40% Grenache, 20% Carignan",
+                  "description": "Nez sur la mûre et le cassis. Notes de réglisse, tanins soyeux.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-ollier-taillefer-grande-reserve",
+                  "name": "Domaine Ollier Taillefer – Grande Réserve",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 36.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "AOP Faugères",
+                  "grapes": "Syrah, Grenache, Carignan",
+                  "description": "Notes de petits fruits rouges, d’épices douces de réglisse, attaque gourmande, charnue et ronde, tanins soyeux.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-de-lhortus-bergerie-de-lhortus",
+                  "name": "Domaine de l’Hortus – Bergerie de l’Hortus",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 36.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "AOP Pic Saint Loup",
+                  "grapes": "Syrah, Grenache, Mourvèdre",
+                  "description": "Attaque franche et puissante. Tanins doux, finale longue, épicée, sur des fruits mûrs réglissés.",
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Blancs secs",
+              "notes": [],
+              "items": [
+                {
+                  "id": "vins-blancs-secs-le-cellier-des-chartreux-je-donne-ma-langue-au-chat",
+                  "name": "Le Cellier des Chartreux – Je donne ma langue au chat",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 4.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 24.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "Vin de France (Vallée du Rhône méridionale)",
+                  "grapes": "Gewurztraminer, Viognier",
+                  "description": "Nez complexe et fruité sur des notes de rose et de litchi. Bouche onctueuse et fraîche.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-domaine-canet-chardonnay",
+                  "name": "Domaine Canet – Chardonnay",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 26.0
+                    }
+                  ],
+                  "labels": [
+                    "Terra Vitis"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Chardonnay",
+                  "description": "Arômes délicats de poire, de pêche, et des notes de fleur d’acacia. Bouche minérale et élégante.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-mas-darcay-cuvee-jean-leffronte",
+                  "name": "Mas d’Arcaÿ – Cuvée Jean l’Effronté",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Viognier",
+                  "description": "Vin bien équilibré en bouche, fruité et floral. Belle amertume typique du viognier en fin de bouche.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-domaine-puech-auger-cuvee-lenvie",
+                  "name": "Domaine Puech Auger – Cuvée l’Envie",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP du Mont Saint Baudile",
+                  "grapes": "100% Chenin",
+                  "description": "Nez de fruits confits, miel, acacia fumé avec une attaque souple en bouche et une finale briochée, fumée.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-le-clos-delle-cuvee-rouviege",
+                  "name": "Le Clos d’Elle – Cuvée Rouviège",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Roussanne",
+                  "description": "Rond et fin sur des arômes de fleurs blanches, de banane et d’amande.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-domaine-massillan-nautile-blanc",
+                  "name": "Domaine Massillan – Nautile Blanc",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP Saint-Guilhem-le-Désert",
+                  "grapes": "Chardonnay, Viognier",
+                  "description": "Notes pâtissières et boisées. Bouche ample, fruitée et généreuse avec un peu de gras. Finale longue et persistante.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-secs-domaine-girard-las-salvios",
+                  "name": "Domaine Girard – Las Salvios",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "AOP Limoux",
+                  "grapes": "100% Chardonnay",
+                  "description": "Brioché, beurré et gourmand avec un final sur de beaux amers. Un équilibre abouti entre gras, fraîcheur et amertume.",
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Blancs moelleux",
+              "notes": [],
+              "items": [
+                {
+                  "id": "vins-blancs-moelleux-domaine-joy-saint-andre",
+                  "name": "Domaine Joÿ – Saint André",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "IGP Côtes de Gascogne",
+                  "grapes": "100% Gros Manseng",
+                  "description": "Notes acides et de fruits mûrs. Équilibre sucre/fraîcheur, élégant et racé.",
+                  "components": []
+                },
+                {
+                  "id": "vins-blancs-moelleux-le-clos-delle-lentrecoeur-moelleux",
+                  "name": "Le Clos d’Elle – L’Entrecoeur Moelleux",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 30.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Viognier",
+                  "description": "Notes de bonbon arlequin en bouche, grande légèreté des arômes qui ravit les papilles sans alourdir.",
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Rosés",
+              "notes": [],
+              "items": [
+                {
+                  "id": "vins-roses-le-cellier-des-chartreux-la-nuit-tous-les-chats-sont-gris",
+                  "name": "Le Cellier des Chartreux – La nuit tous les chats sont gris",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 4.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 23.0
+                    }
+                  ],
+                  "labels": [
+                    "HVE"
+                  ],
+                  "appellation": "Vin de France (Vallée du Rhône méridionale)",
+                  "grapes": "100% Grenache",
+                  "description": "Fruité avec des notes de pêche blanche et d’agrumes. Bouche onctueuse et fraîche.",
+                  "components": []
+                },
+                {
+                  "id": "vins-roses-domaine-girard-garriguette",
+                  "name": "Domaine Girard – Garriguette",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 25.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Cabernet Franc",
+                  "description": "Notes de petits fruits rouges, fraises écrasées, pamplemousse avec de jolis amers et une pointe de salinité.",
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Champagnes et effervescents",
+          "notes": [],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "champagnes-et-effervescents-prosecco",
+                  "name": "Prosecco",
+                  "prices": [
+                    {
+                      "label": "Coupe 10cl",
+                      "amount": 6.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 30.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "champagnes-et-effervescents-domaine-girard-cremant-de-limoux",
+                  "name": "Domaine Girard – Crémant de Limoux",
+                  "prices": [
+                    {
+                      "label": "Coupe 10cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 34.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "AOP Crémant de Limoux",
+                  "grapes": "60% Chardonnay, 30% Chenin, 5% Pinot Noir, 5% Mauzac",
+                  "description": "Nez d’agrumes et de fruits secs, de la rondeur en bouche et des arômes de fleurs blanches et une finale discrètement citronnée.",
+                  "components": []
+                },
+                {
+                  "id": "champagnes-et-effervescents-champagne-marquis-de-pommereuil-cuvee-brut-selection",
+                  "name": "Champagne Marquis de Pommereuil – Cuvée Brut Sélection",
+                  "prices": [
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 45.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "AOP Champagne",
+                  "grapes": "33% Pinot noir, 33% Pinot Meunier, 33% Chardonnay",
+                  "description": "Robe jaune ambrée. Belle minéralité. Bouche sur des notes fruitées, de poire et de pêche, et de miel.",
+                  "components": []
+                },
+                {
+                  "id": "champagnes-et-effervescents-domaine-frerejean-freres-blanc-de-blancs-1er-cru",
+                  "name": "Domaine Frerejean Frères – Blanc de blancs 1er Cru",
+                  "prices": [
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 65.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "AOP Champagne",
+                  "grapes": "100% Chardonnay",
+                  "description": "Robe dorée. Notes d’agrumes, de fleurs blanches, de fleurs séchées, de fruits exotiques. Belle minéralité.",
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "notes": [
+            "Ne peuvent être servis qu’en accessoire d’un repas (tapas ou planches)."
+          ],
+          "groups": [
+            {
+              "name": "Signatures",
+              "notes": [],
+              "items": [
+                {
+                  "id": "cocktails-signatures-le-peacock",
+                  "name": "Le Peacock",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Rhum ambré, liqueur de sureau, citron vert, sirop de sucre, jus d’abricot",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-signatures-le-primavera",
+                  "name": "Le Primavera",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Vodka, liqueur de sureau, citron vert, sirop de sucre, jus de cranberry, Perrier",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-signatures-le-velvet-passion",
+                  "name": "Le Velvet Passion",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Vodka, liqueur de vanille, purée de fruit de la passion, citron vert, Perrier",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-signatures-la-groupie-du-pianiste",
+                  "name": "La Groupie du Pianiste",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Cognac, amaretto, jus de citron vert, jus de cranberry, bitter pêche",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-signatures-cocktail-creation-sur-demande",
+                  "name": "Cocktail création sur demande",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Classiques",
+              "notes": [],
+              "items": [
+                {
+                  "id": "cocktails-classiques-tipunch",
+                  "name": "Ti’Punch",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Rhum agricole, citron vert, cassonade, sirop de canne",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-green-stormy",
+                  "name": "Green Stormy",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Rhum ambré, ginger ale, jus de citron vert, sirop basilic",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-moscow-mule",
+                  "name": "Moscow Mule",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Vodka, ginger ale, citron vert, menthe fraîche",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-espresso-martini",
+                  "name": "Espresso Martini",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Vodka, liqueur de café, espresso",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-gin-tonic",
+                  "name": "Gin & Tonic",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Gin, tonic",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-mojito-nature-ou-aromatise",
+                  "name": "Mojito nature ou aromatisé",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Arômes au choix : fraise, framboise, passion ou mangue. Rhum ambré, citron vert, cassonade, sirop de canne, Perrier, feuilles de menthe, purée de fruit si aromatisé",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-frozen-daiquiri-aromatise",
+                  "name": "Frozen Daïquiri aromatisé",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Arômes au choix : fraise, framboise, passion ou mangue. Rhum ambré, jus de citron vert, cassonade, sirop de canne, purée de fruit",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-pina-colada",
+                  "name": "Piña Colada",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Rhum ambré, jus d’ananas, jus de banane, sirop de coco",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-negroni",
+                  "name": "Negroni",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Gin, Campari, Martini Rosso, zeste d’orange",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-whisky-smash",
+                  "name": "Whisky Smash",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Bulleit Bourbon, feuilles de menthe, sirop de sucre, citron jaune",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-old-fashioned",
+                  "name": "Old Fashioned",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Glenmorangie, sucre, Perrier, Angostura",
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Spritz",
+              "notes": [],
+              "items": [
+                {
+                  "id": "cocktails-spritz-aperol-spritz-ou-campari-spritz",
+                  "name": "Aperol Spritz ou Campari Spritz",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Prosecco, Perrier, Aperol ou Campari",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-spritz-spritz-mangue-vanille-cassis-citron-ou-orange",
+                  "name": "Spritz mangue, vanille, cassis, citron ou orange",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Prosecco, Perrier, liqueur",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-spritz-hugo-spritz",
+                  "name": "Hugo Spritz",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Prosecco, Perrier, liqueur de sureau",
+                  "components": []
+                },
+                {
+                  "id": "cocktails-spritz-st-germain-spritz",
+                  "name": "St Germain Spritz",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Prosecco, Perrier, St Germain",
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Liqueurs et apéritifs",
+          "notes": [],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "liqueurs-et-aperitifs-ricard",
+                  "name": "Ricard",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 3.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "liqueurs-et-aperitifs-get-27",
+                  "name": "Get 27",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "liqueurs-et-aperitifs-baileys-irish-cream",
+                  "name": "Baileys Irish Cream",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spiritueux",
+          "notes": [],
+          "groups": [
+            {
+              "name": "Whisky",
+              "notes": [],
+              "items": [
+                {
+                  "id": "spiritueux-whisky-bulleit-bourbon-45",
+                  "name": "Bulleit Bourbon – 45°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-whisky-glenmorangie-10-ans-original-40",
+                  "name": "Glenmorangie 10 ans Original – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-whisky-talisker-port-ruighe-45-8",
+                  "name": "Talisker Port Ruighe – 45,8°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Gin",
+              "notes": [],
+              "items": [
+                {
+                  "id": "spiritueux-gin-the-botanist-46",
+                  "name": "The Botanist – 46°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-gin-etsu-43",
+                  "name": "Etsu – 43°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Rhum",
+              "notes": [],
+              "items": [
+                {
+                  "id": "spiritueux-rhum-diplomatico-reserva-exclusiva-40",
+                  "name": "Diplomatico Reserva Exclusiva – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-rhum-bocatheva-40",
+                  "name": "Bocathéva – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-rhum-zacapa-23-40",
+                  "name": "Zacapa 23 – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Autres",
+              "notes": [],
+              "items": [
+                {
+                  "id": "spiritueux-autres-hennessy-fine-de-cognac-vs-40",
+                  "name": "Hennessy Fine de Cognac VS – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-autres-absinthe-55",
+                  "name": "Absinthe – 55°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-autres-la-chartreuse-55",
+                  "name": "La Chartreuse – 55°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bières & cidre",
+          "notes": [
+            "À la pression."
+          ],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "bieres-cidre-blonde-saison-antoine-sacrilege-5-4",
+                  "name": "Blonde Saison Antoine, Sacrilège – 5,4°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 4.0
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 6.5
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-etape-ipa-sacrilege-6-5",
+                  "name": "Étape IPA, Sacrilège – 6,5°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 4.5
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 7.5
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Sèche et fruitée",
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-loomi-sacrilege-4-6",
+                  "name": "Loomi, Sacrilège – 4,6°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 4.5
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 7.5
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Blanche acidulée au citron noir",
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-cesure-sacrilege-7",
+                  "name": "Césure, Sacrilège – 7°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Bière de garde ambrée et forte",
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-la-detente-sacrilege-5-7",
+                  "name": "La Détente, Sacrilège – 5,7°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Bio"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Sour cassis, framboise, verveine",
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-cidre-la-mordue-6",
+                  "name": "Cidre La Mordue – 6°",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "bieres-cidre-boucanier-coco",
+                  "name": "Boucanier Coco",
+                  "prices": [
+                    {
+                      "label": "Demi",
+                      "amount": 6.0
+                    },
+                    {
+                      "label": "Pinte",
+                      "amount": 9.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Rhum, sirop de coco, bière blonde",
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sans alcool",
+          "notes": [],
+          "groups": [
+            {
+              "name": "Mocktails",
+              "notes": [],
+              "items": [
+                {
+                  "id": "sans-alcool-mocktails-virgin-mojito-nature-ou-aromatise",
+                  "name": "Virgin Mojito nature ou aromatisé",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Perrier, citron vert, cassonade, sirop de canne, feuilles de menthe, purée de fruit si aromatisé",
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-virgin-colada",
+                  "name": "Virgin Colada",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Jus d’ananas, sirop de coco, crème de coco, jus de citron",
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-le-ginger",
+                  "name": "Le Ginger",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Ginger ale, jus de citron vert, sirop basilic",
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-le-basil-fields-forever",
+                  "name": "Le Basil Fields Forever",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Purée de fraise, jus de citron vert, sirop basilic, Perrier",
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-oxford-mango",
+                  "name": "Oxford Mango",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Purée de mangue, jus de citron, basilic, miel, Perrier",
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-creation-sans-alcool-sur-demande",
+                  "name": "Création sans alcool sur demande",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            },
+            {
+              "name": "Softs",
+              "notes": [],
+              "items": [
+                {
+                  "id": "sans-alcool-softs-biere-sans-alcool",
+                  "name": "Bière sans alcool",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.5
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-softs-jus-de-fruits-coca-cola-coca-cola-zero-fuze-tea-limonade-ginger-beer-perrier",
+                  "name": "Jus de fruits, Coca-Cola, Coca-Cola Zero, Fuze Tea, limonade, ginger beer, Perrier",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 4.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-softs-sirops",
+                  "name": "Sirops",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 2.5
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-softs-the-infusion",
+                  "name": "Thé / infusion",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 2.5
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-softs-cafe-expresso-allonge-ou-decafeine",
+                  "name": "Café (expresso, allongé ou décaféiné)",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 2.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "sans-alcool-softs-supplement-sirop",
+                  "name": "Supplément sirop",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 0.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "À manger",
+      "notes": [
+        "Du mardi au samedi inclus."
+      ],
+      "sections": [
+        {
+          "name": "Planches",
+          "notes": [
+            "À partager, ou pas…"
+          ],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "planches-la-clandestine",
+                  "name": "La Clandestine",
+                  "prices": [
+                    {
+                      "label": "Demi planche",
+                      "amount": 16.0
+                    },
+                    {
+                      "label": "Planche",
+                      "amount": 30.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Assortiment de charcuterie ibérique et italienne, et de fromages au lait cru",
+                  "components": [
+                    "Jambon Duroc affiné 24 mois ; provenance Guijuelo",
+                    "Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles",
+                    "Chorizo ibérique ; provenance Salamanca",
+                    "Saucisson ibérique ; provenance Salamanca",
+                    "Coppa ; provenance Navarcles",
+                    "Sobrasada de Mallorca douce",
+                    "Chorizo grillé ; provenance Vic",
+                    "AOP Comté de Montagne 5 à 7 mois d’affinage ; provenance Jura",
+                    "AOP Fourme d’Ambert ; provenance Auvergne",
+                    "Cabécou Cabri d’Oc ; provenance Tarn",
+                    "AOP Tête de Moine ; provenance Suisse"
+                  ]
+                },
+                {
+                  "id": "planches-liberica",
+                  "name": "L’Ibérica",
+                  "prices": [
+                    {
+                      "label": "Demi planche",
+                      "amount": 17.0
+                    },
+                    {
+                      "label": "Planche",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Assortiment de charcuterie ibérique et italienne",
+                  "components": []
+                },
+                {
+                  "id": "planches-la-ronde-des-fromages",
+                  "name": "La Ronde des Fromages",
+                  "prices": [
+                    {
+                      "label": "Demi planche",
+                      "amount": 14.0
+                    },
+                    {
+                      "label": "Planche",
+                      "amount": 27.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Assortiment de fromages au lait cru",
+                  "components": []
+                },
+                {
+                  "id": "planches-assortiment-de-finger-food",
+                  "name": "Assortiment de finger food",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 25.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Servis avec sauce bravas et chutney de menthe",
+                  "components": [
+                    "Mozzarella sticks",
+                    "Chicken wings",
+                    "Beignets de calamars",
+                    "Onion rings",
+                    "Potatoes"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tapas",
+          "notes": [],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "tapas-tataki-de-buf",
+                  "name": "Tataki de bœuf",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-camembert-roti",
+                  "name": "Camembert rôti",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-toasts-de-magret-de-canard-4-pieces",
+                  "name": "Toasts de magret de canard (4 pièces)",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Magret de canard au piment d’Espelette, salade assaisonnée et son toast grillé",
+                  "components": []
+                },
+                {
+                  "id": "tapas-burrata",
+                  "name": "Burrata",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Accompagnée de son pesto maison et de tomates cerises",
+                  "components": []
+                },
+                {
+                  "id": "tapas-jambon-duroc-affine-24-mois-ou-plus",
+                  "name": "Jambon Duroc affiné 24 mois ou plus",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.5
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-pintxos-crevettes-marinees-guacamole-4-pieces",
+                  "name": "Pintxos crevettes marinées & guacamole (4 pièces)",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-brochettes-de-buf-au-fromage-4-pieces",
+                  "name": "Brochettes de bœuf au fromage (4 pièces)",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-chorizos-grilles",
+                  "name": "Chorizos grillés",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-uf-cocotte",
+                  "name": "Œuf cocotte",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.5
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-guacamole",
+                  "name": "Guacamole",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 4.5
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "tapas-garlic-bread",
+                  "name": "Garlic bread",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 4.0
+                    }
+                  ],
+                  "labels": [
+                    "Fait maison"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Fingerfood",
+          "notes": [
+            "Servis avec une sauce bravas ou un chutney de menthe."
+          ],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "fingerfood-chicken-wings",
+                  "name": "Chicken wings",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "fingerfood-onion-rings",
+                  "name": "Onion rings",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "fingerfood-mozzarella-sticks",
+                  "name": "Mozzarella sticks",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "fingerfood-beignets-de-calamars",
+                  "name": "Beignets de calamars",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "fingerfood-potatoes",
+                  "name": "Potatoes",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "notes": [],
+          "groups": [
+            {
+              "name": null,
+              "notes": [],
+              "items": [
+                {
+                  "id": "desserts-muffin-a-la-chataigne",
+                  "name": "Muffin à la châtaigne",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Supplément boule de glace : 2,00 €",
+                  "components": []
+                },
+                {
+                  "id": "desserts-fondant-au-chocolat",
+                  "name": "Fondant au chocolat",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Supplément boule de glace : 2,00 €",
+                  "components": []
+                },
+                {
+                  "id": "desserts-boules-de-glace",
+                  "name": "Boules de glace",
+                  "prices": [
+                    {
+                      "label": "1 boule",
+                      "amount": 3.5
+                    },
+                    {
+                      "label": "2 boules",
+                      "amount": 5.0
+                    },
+                    {
+                      "label": "3 boules",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Vanille, pistache, mangue, citron, chocolat, framboise, rhum-raisin",
+                  "components": []
+                },
+                {
+                  "id": "desserts-supplement-cafe-the-ou-infusion-avec-le-dessert",
+                  "name": "Supplément café, thé ou infusion avec le dessert",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 1.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "desserts-supplement-chantilly",
+                  "name": "Supplément chantilly",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 0.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

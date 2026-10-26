@@ -1,0 +1,60 @@
+name: Compiler la carte
+
+# Se lance à chaque dépôt d'un fichier dans MENU/ (ou à la main depuis l'onglet Actions).
+on:
+  push:
+    branches: [main]
+    paths: ["MENU/**", "tools/parse_menu.py"]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Publier même si la carte a beaucoup moins d'articles qu'avant"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: carte
+  cancel-in-progress: false
+
+jobs:
+  compiler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer la lecture des fichiers Word
+        run: pip install python-docx
+
+      - name: Lire et contrôler la carte
+        run: |
+          FORCE=""
+          if [ "${{ inputs.force }}" = "true" ]; then FORCE="--force"; fi
+          python tools/parse_menu.py "MENU/Carte Clandestin - modele.docx" menu.new.json --previous menu.json $FORCE
+
+      - name: Publier menu.json
+        run: |
+          # Ne republie que si le contenu a changé (la date de compilation seule ne compte pas).
+          if [ -f menu.json ] && python - <<'EOF'
+          import json, sys
+          a = json.load(open("menu.json")); b = json.load(open("menu.new.json"))
+          for d in (a, b): d.pop("generatedAt", None)
+          sys.exit(0 if a == b else 1)
+          EOF
+          then
+            echo "Carte inchangée : rien à publier."
+            rm menu.new.json
+            exit 0
+          fi
+          mv menu.new.json menu.json
+          git config user.name "carte-bot"
+          git config user.email "carte-bot@users.noreply.github.com"
+          git add menu.json
+          git commit -m "Carte publiée ($(date -u +%Y-%m-%d))"
+          git push
