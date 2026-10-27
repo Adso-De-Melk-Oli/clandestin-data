@@ -1,0 +1,289 @@
+N: L’abus d’alcool est dangereux pour la santé. À consommer avec modération.
+N: La maison n’accepte plus les chèques.
+T: Boissons
+H1: Vins
+H2: Rouges
+F: Verre 12cl | Bouteille 75cl
+A: Le Cellier des Chartreux – Chamasûtra | 5,00 € | 25,00 € | HVE
+AP: IGP Gard
+CE: Merlot, Syrah
+D: Arômes de fruits rouges, de fraises des bois et des notes vanillées et toastées. Tanins souples et amples.
+A: Le Clos d’Elle – Sur la comète | 5,50 € | 27,00 €
+AP: Vin de France
+CE: 100% Cinsault
+D: Le vin des copains : souple, légèrement poivré, rafraîchissant et note de petits fruits rouges en fin de bouche.
+A: Domaine de Roquemale – Meli Melo | 6,00 € | 28,00 € | Bio
+AP: IGP Vin de Pays de l’Hérault (sur le terroir des Grès de Montpellier)
+CE: 50% Alicante Bouschet, 30% Syrah, 20% Cinsault
+D: Éclatant, gourmand, fruité. Une bouche croquante et acidulée.
+A: Domaine Guinand – Cuvée Vieilles Vignes | 6,00 € | 28,00 € | Agriculture raisonnée
+AP: AOP Coteaux du Languedoc Terroir Saint Christol
+CE: 60% Syrah, 10% Carignan, 20% Mourvèdre, 10% Grenache
+D: Belle structure ronde, veloutée et fondue. Tanins fondus et soyeux. Vin élégant.
+A: Château Lancyre – Le Clos des Combes | 6,00 € | 29,00 € | Bio
+AP: AOP Pic Saint Loup
+CE: 50% Syrah, 50% Grenache
+D: Nez sur des notes fumées, bouche ronde, fruitée et riche. Tanins très soyeux et ronds.
+A: Clos du Serres – Cuvée Saint Jean | 6,50 € | 29,00 € | Bio
+AP: AOP Terrasses du Larzac
+CE: 25% Œillade, 25% Cinsault, 25% Syrah, 25% Grenache
+D: Notes de petits fruits rouges avec une belle finale épicée et fraîche, des tanins fins et soyeux.
+A: Château Mourgues du Grès – Les Galets Rouges | 6,50 € | 29,00 € | HVE
+AP: AOP Costières de Nîmes
+CE: Syrah, Grenache, Mourvèdre, Carignan
+D: Nez sur les fruits noirs enrichis d’épices et de cacao. Bouche généreuse et gourmande. Tanins fondus.
+A: Le Clos d’Elle – L’Entrecoeur rouge | 6,50 € | 32,00 € | Bio
+AP: AOC Languedoc
+CE: 40% Syrah, 40% Grenache, 20% Carignan
+D: Nez sur la mûre et le cassis. Notes de réglisse, tanins soyeux.
+A: Domaine Jean-Baptiste Senat – Arbalètes et Coquelicots | 6,50 € | 30,00 € | Vin nature
+AP: IGP Pays d’Oc
+CE: 70% Carignan, 15% Grenache, 15% Mourvèdre
+D: Robe claire et vive aux contours violacés. Bouche sur le fruit, la fraîcheur, la senteur et la vivacité.
+A: Domaine Girard – Pinot Noir | 7,00 € | 32,00 €
+AP: IGP Pays d’Oc
+CE: 100% Pinot Noir
+D: Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.
+A: Domaine de l’Hortus – Bergerie de l’Hortus | 7,50 € | 36,00 €
+AP: AOP Pic Saint Loup
+CE: Syrah, Grenache, Mourvèdre
+D: Attaque franche et puissante. Tanins doux, finale longue, épicée, sur des fruits mûrs réglissés.
+H2: Blancs secs
+F: Verre 12cl | Bouteille 75cl
+A: Le Cellier des Chartreux – Je donne ma langue au chat | 5,00 € | 25,00 € | HVE
+AP: Vin de France (Vallée du Rhône méridionale)
+CE: Gewurztraminer, Viognier
+D: Nez complexe et fruité sur des notes de rose et de litchi. Bouche onctueuse et fraîche.
+A: Domaine Canet – Chardonnay | 5,50 € | 26,00 € | Terra Vitis
+AP: IGP Pays d’Oc
+CE: 100% Chardonnay
+D: Arômes délicats de poire, de pêche, et des notes de fleur d’acacia. Bouche minérale et élégante.
+A: Mas d’Arcaÿ – Cuvée Jean l’Effronté | 6,00 € | 27,00 € | HVE
+AP: IGP Pays d’Oc
+CE: 100% Viognier
+D: Vin bien équilibré en bouche, fruité et floral. Belle amertume typique du viognier en fin de bouche.
+A: Domaine Puech Auger – Cuvée l’Envie | 6,00 € | 27,00 € | Bio
+AP: IGP du Mont Saint Baudile
+CE: 100% Chenin
+D: Nez de fruits confits, miel, acacia fumé avec une attaque souple en bouche et une finale briochée, fumée.
+A: Le Clos d’Elle – Cuvée Rouviège | 6,50 € | 30,00 € | Bio
+AP: IGP Pays d’Oc
+CE: 100% Roussanne
+D: Rond et fin sur des arômes de fleurs blanches, de banane et d’amande.
+A: Domaine Massillan – Nautile Blanc | 6,50 € | 30,00 € | Bio
+AP: IGP Saint-Guilhem-le-Désert
+CE: Chardonnay, Viognier
+D: Notes pâtissières et boisées. Bouche ample, fruitée et généreuse avec un peu de gras. Finale longue et persistante.
+A: Domaine Fabien Jouves – Les Agudes | 6,50 € | 30,00 € | Vin nature
+AP: Vin de France
+CE: Colombard, Sauvignon Blanc
+D: Au nez comme en bouche, on retrouve des effluves d’agrumes, de cédrat et de discrètes notes de fruits à chair blanche.
+A: Domaine Girard – Las Salvios | 7,00 € | 32,00 € | HVE
+AP: AOP Limoux
+CE: 100% Chardonnay
+D: Brioché, beurré et gourmand avec un final sur de beaux amers. Un équilibre abouti entre gras, fraîcheur et amertume.
+H2: Blancs moelleux
+F: Verre 12cl | Bouteille 75cl
+A: Domaine Joÿ – Saint André | 6,00 € | 28,00 € | HVE
+AP: IGP Côtes de Gascogne
+CE: 100% Gros Manseng
+D: Notes acides et de fruits mûrs. Équilibre sucre/fraîcheur, élégant et racé.
+A: Le Clos d’Elle – L’Entrecoeur Moelleux | 6,00 € | 28,00 € | Bio
+AP: IGP Pays d’Oc
+CE: 100% Viognier
+D: Notes de bonbon arlequin en bouche, grande légèreté des arômes qui ravit les papilles sans alourdir.
+H2: Rosés
+F: Verre 12cl | Bouteille 75cl
+A: Le Cellier des Chartreux – La nuit tous les chats sont gris | 5,00 € | 25,00 € | HVE
+AP: Vin de France (Vallée du Rhône méridionale)
+CE: 100% Grenache
+D: Fruité avec des notes de pêche blanche et d’agrumes. Bouche onctueuse et fraîche.
+A: Domaine Girard – Garriguette | 5,00 € | 25,00 € | Bio
+AP: IGP Pays d’Oc
+CE: 100% Cabernet Franc
+D: Notes de petits fruits rouges, fraises écrasées, pamplemousse avec de jolis amers et une pointe de salinité.
+H1: Champagnes et effervescents
+F: Coupe 10cl | Bouteille 75cl
+A: Prosecco | 6,00 € | 30,00 €
+A: Domaine Girard – Crémant de Limoux | 6,50 € | 33,00 €
+AP: AOP Crémant de Limoux
+CE: 60% Chardonnay, 30% Chenin, 5% Pinot Noir, 5% Mauzac
+D: Nez d’agrumes et de fruits secs, de la rondeur en bouche et des arômes de fleurs blanches et une finale discrètement citronnée.
+A: Champagne Marquis de Pommereuil – Cuvée Brut Sélection | — | 45,00 €
+AP: AOP Champagne
+CE: 33% Pinot noir, 33% Pinot Meunier, 33% Chardonnay
+D: Robe jaune ambrée. Belle minéralité. Bouche sur des notes fruitées, de poire et de pêche, et de miel.
+A: Domaine Frerejean Frères – Blanc de blancs 1er Cru | — | 65,00 €
+AP: AOP Champagne
+CE: 100% Chardonnay
+D: Robe dorée. Notes d’agrumes, de fleurs blanches, de fleurs séchées, de fruits exotiques. Belle minéralité.
+H1: Cocktails
+N: Ne peuvent être servis qu’en accessoire d’un repas (tapas ou planches).
+H2: Signatures
+F: Prix
+A: Le Peacock | 10,00 €
+D: Rhum ambré, liqueur de sureau, citron vert, sirop de sucre, jus d’abricot
+A: Le Primavera | 10,00 €
+D: Vodka, liqueur de sureau, citron vert, sirop de sucre, jus de cranberry, Perrier
+A: Le Velvet Passion | 10,00 €
+D: Vodka, liqueur de vanille, purée de fruit de la passion, citron vert, Perrier
+A: La Groupie du Pianiste | 12,00 €
+D: Cognac, amaretto, jus de citron vert, jus de cranberry, bitter pêche
+A: Cocktail création sur demande | 12,00 €
+H2: Classiques
+F: Prix
+A: Jägerbomb | 6,00 €
+A: Ti’Punch | 9,00 €
+D: Rhum agricole, citron vert, cassonade, sirop de canne
+A: Green Stormy | 9,00 €
+D: Rhum ambré, ginger ale, jus de citron vert, sirop basilic
+A: Moscow Mule | 9,00 €
+D: Vodka, ginger ale, citron vert, menthe fraîche
+A: Espresso Martini | 9,00 €
+D: Vodka, liqueur de café, espresso
+A: Mojito nature ou aromatisé | 10,00 €
+D: Arômes au choix : fraise, framboise, passion ou mangue. Rhum ambré, citron vert, cassonade, sirop de canne, Perrier, feuilles de menthe, purée de fruit si aromatisé
+A: Frozen Daïquiri aromatisé | 10,00 €
+D: Arômes au choix : fraise, framboise, passion ou mangue. Rhum ambré, jus de citron vert, cassonade, sirop de canne, purée de fruit
+A: Piña Colada | 10,00 €
+D: Rhum ambré, jus d’ananas, jus de banane, sirop de coco
+A: Negroni | 10,00 €
+D: Gin, Campari, Martini Rosso, zeste d’orange
+A: Whisky Smash | 10,00 €
+D: Bulleit Bourbon, feuilles de menthe, sirop de sucre, citron jaune
+A: Gin & Tonic | 10,00 €
+A: Gin & Tonic Premium | 12,00 €
+D: Gin au choix, tonic Fever-Tree
+A: Old Fashioned | 12,00 €
+D: Glenmorangie, sucre, Perrier, Angostura
+H2: Spritz
+F: Prix
+A: Spritz liqueur au choix | 9,00 €
+D: Aperol, Campari, mangue, vanille, cassis, citron, orange, limoncello…
+A: St Germain Spritz | 12,00 €
+H1: Liqueurs et apéritifs
+F: Prix
+A: Ricard | 3,50 €
+A: Limoncello | 5,00 €
+A: Get 27 | 5,50 €
+A: Baileys Irish Cream | 5,50 €
+A: Martini | 5,50 €
+H1: Spiritueux
+H2: Whisky
+F: Prix
+A: Bulleit Bourbon – 45° | 10,00 €
+A: Monkey Shoulder – 40° | 10,00 €
+A: Tullamore Dew – 40° | 10,00 €
+A: Talisker Port Ruighe – 45,8° | 12,00 €
+H2: Gin
+F: Prix
+A: Hendrick’s – 41,4° | 10,00 €
+A: Etsu – 43° | 10,00 €
+D: Original, Double Yuzu ou Sakura
+H2: Rhum
+F: Prix
+A: Secha de la Silva – 40° | 10,00 €
+A: Bocathéva – 40° | 10,00 €
+A: Zacapa 23 – 40° | 12,00 €
+H2: Autres
+F: Prix
+A: Hennessy Fine de Cognac VS – 40° | 10,00 €
+A: Absinthe – 55° | 10,00 €
+A: La Chartreuse – 55° | 10,00 €
+H1: Bières & cidre
+N: À la pression.
+F: Demi | Pinte
+A: Blonde Saison Antoine, Sacrilège – 5,4° | 4,00 € | 6,50 € | Bio
+A: Étape IPA, Sacrilège – 6,5° | 5,00 € | 8,00 € | Bio
+D: Sèche et fruitée
+A: Loomi, Sacrilège – 4,6° | 5,00 € | 8,00 € | Bio
+D: Blanche acidulée au citron noir
+A: Césure, Sacrilège – 7° | 5,00 € | 8,00 € | Bio
+D: Bière de garde ambrée et forte
+A: La Détente, Sacrilège – 5,7° | 5,00 € | 8,00 € | Bio
+D: Sour cassis, framboise, verveine
+A: Cidre La Mordue – 6° | 5,00 € | 8,00 €
+A: Boucanier Coco | 6,00 € | 9,00 €
+D: Rhum, sirop de coco, bière blonde
+H1: Sans alcool
+H2: Mocktails
+F: Prix
+A: Virgin Mojito nature ou aromatisé | 8,00 € | | Sans alcool
+A: Virgin Colada | 8,00 € | | Sans alcool
+D: Jus d’ananas, sirop de coco, crème de coco, jus de citron
+A: Le Ginger | 8,00 € | | Sans alcool
+D: Ginger ale, jus de citron vert, sirop basilic
+A: Le Basil Fields Forever | 8,00 € | | Sans alcool
+D: Purée de fraise, jus de citron vert, sirop basilic, Perrier
+A: Oxford Mango | 8,00 € | | Sans alcool
+D: Purée de mangue, jus de citron, basilic, miel, Perrier
+H2: Softs
+F: Prix
+A: Bière sans alcool | 5,00 € | | Sans alcool
+A: Jus de fruits, Coca-Cola, Coca-Cola Zero, Fuze Tea, limonade, ginger beer, Perrier | 4,00 € | | Sans alcool
+A: Sirops | 2,50 € | | Sans alcool
+A: Thé / infusion | 2,50 € | | Sans alcool
+A: Café (expresso, allongé ou décaféiné) | 2,00 € | | Sans alcool
+T: À manger
+N: Du mardi au samedi inclus.
+H1: Planches
+N: À partager, ou pas…
+F: Demi planche | Planche
+A: La Clandestine | 16,00 € | 30,00 € | Fait maison
+D: Assortiment de charcuterie ibérique et italienne, et de fromages au lait cru
+C: Jambon Duroc affiné 24 mois ; provenance Guijuelo
+C: Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles
+C: Chorizo ibérique ; provenance Salamanca
+C: Coppa ; provenance Navarcles
+C: Sobrasada de Mallorca douce
+C: Chorizo grillé ; provenance Vic
+C: AOP Comté de Montagne 5 à 7 mois d’affinage ; provenance Jura
+C: Cabécou Cabri d’Oc ; provenance Tarn
+C: AOP Tête de Moine ; provenance Suisse
+C: Tomme à l’ail des ours
+C: Brie à la truffe
+A: L’Ibérica | 17,00 € | 32,00 € | Fait maison
+D: Assortiment de charcuterie ibérique et italienne
+A: La Ronde des Fromages | 14,00 € | 27,00 € | Fait maison
+D: Assortiment de fromages au lait cru
+F: Prix
+A: Assortiment de finger food | 25,00 €
+D: Supplément frites : 2,00 €
+C: Mozzarella sticks
+C: Chicken wings
+C: Beignets de calamars
+C: Onion rings
+H1: Tapas
+F: Prix
+A: Tataki de bœuf | 10,00 € | | Fait maison
+A: Camembert rôti | 10,00 € | | Fait maison
+A: Toasts de magret de canard (4 pièces) | 8,00 € | | Fait maison
+D: Magret de canard au piment d’Espelette, salade assaisonnée et son toast grillé
+A: Burrata | 8,00 € | | Fait maison
+D: Accompagnée de son pesto maison et de tomates cerises
+A: Jambon Duroc affiné 24 mois | 7,50 € | | Fait maison
+A: Pintxos crevettes marinées & guacamole (4 pièces) | 7,00 € | | Fait maison
+A: Brochettes de bœuf au fromage (4 pièces) | 7,00 € | | Fait maison
+A: Chorizos grillés | 7,00 € | | Fait maison
+A: Ramequin de tartinade au choix | 4,50 € | | Fait maison
+D: Tomatade, guacamole, pan con tomate ou caviar d’aubergine
+A: Pain à l’ail | 4,00 € | | Fait maison
+H1: Fingerfood
+F: Prix
+A: Chicken wings | 8,00 €
+A: Onion rings | 6,00 €
+A: Mozzarella sticks | 6,00 €
+A: Beignets de calamars | 6,00 €
+A: Frites | 5,00 €
+H1: Desserts
+F: Prix
+A: Muffin à la châtaigne | 6,00 €
+D: Supplément boule de glace : 2,00 €
+A: Fondant au chocolat | 5,00 €
+D: Supplément boule de glace : 2,00 €
+F: 1 boule | 2 boules | 3 boules
+A: Boules de glace | 3,50 € | 5,00 € | 6,00 €
+D: Vanille, pistache, mangue, citron, chocolat, framboise, rhum-raisin
+F: Prix
+A: Supplément café, thé ou infusion avec le dessert | 1,00 €
+A: Supplément chantilly | 0,50 €
