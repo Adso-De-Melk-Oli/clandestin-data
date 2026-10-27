@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-26T19:16:16+00:00",
+  "generatedAt": "2026-10-27T13:46:32+00:00",
   "source": "Carte Clandestin - modele.docx",
-  "itemCount": 103,
+  "itemCount": 105,
   "notes": [
     "L’abus d’alcool est dangereux pour la santé. À consommer avec modération.",
     "La maison n’accepte plus les chèques."
@@ -26,11 +26,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 4.5
+                      "amount": 5.0
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 24.0
+                      "amount": 25.0
                     }
                   ],
                   "labels": [
@@ -47,7 +47,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.0
+                      "amount": 5.5
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -66,7 +66,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -87,7 +87,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -108,11 +108,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 30.0
+                      "amount": 29.0
                     }
                   ],
                   "labels": [
@@ -129,11 +129,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 6.0
+                      "amount": 6.5
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 32.0
+                      "amount": 29.0
                     }
                   ],
                   "labels": [
@@ -145,8 +145,8 @@
                   "components": []
                 },
                 {
-                  "id": "vins-rouges-domaine-girard-pinot-noir",
-                  "name": "Domaine Girard – Pinot Noir",
+                  "id": "vins-rouges-chateau-mourgues-du-gres-les-galets-rouges",
+                  "name": "Château Mourgues du Grès – Les Galets Rouges",
                   "prices": [
                     {
                       "label": "Verre 12cl",
@@ -154,15 +154,15 @@
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 32.0
+                      "amount": 29.0
                     }
                   ],
                   "labels": [
                     "HVE"
                   ],
-                  "appellation": "IGP Pays d’Oc",
-                  "grapes": "100% Pinot Noir",
-                  "description": "Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.",
+                  "appellation": "AOP Costières de Nîmes",
+                  "grapes": "Syrah, Grenache, Mourvèdre, Carignan",
+                  "description": "Nez sur les fruits noirs enrichis d’épices et de cacao. Bouche généreuse et gourmande. Tanins fondus.",
                   "components": []
                 },
                 {
@@ -187,8 +187,8 @@
                   "components": []
                 },
                 {
-                  "id": "vins-rouges-domaine-ollier-taillefer-grande-reserve",
-                  "name": "Domaine Ollier Taillefer – Grande Réserve",
+                  "id": "vins-rouges-domaine-jean-baptiste-senat-arbaletes-et-coquelicots",
+                  "name": "Domaine Jean-Baptiste Senat – Arbalètes et Coquelicots",
                   "prices": [
                     {
                       "label": "Verre 12cl",
@@ -196,15 +196,34 @@
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 36.0
+                      "amount": 30.0
                     }
                   ],
                   "labels": [
-                    "Bio"
+                    "Vin nature"
                   ],
-                  "appellation": "AOP Faugères",
-                  "grapes": "Syrah, Grenache, Carignan",
-                  "description": "Notes de petits fruits rouges, d’épices douces de réglisse, attaque gourmande, charnue et ronde, tanins soyeux.",
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "70% Carignan, 15% Grenache, 15% Mourvèdre",
+                  "description": "Robe claire et vive aux contours violacés. Bouche sur le fruit, la fraîcheur, la senteur et la vivacité.",
+                  "components": []
+                },
+                {
+                  "id": "vins-rouges-domaine-girard-pinot-noir",
+                  "name": "Domaine Girard – Pinot Noir",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 7.0
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 32.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": "IGP Pays d’Oc",
+                  "grapes": "100% Pinot Noir",
+                  "description": "Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.",
                   "components": []
                 },
                 {
@@ -213,7 +232,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 6.5
+                      "amount": 7.5
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -238,11 +257,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 4.5
+                      "amount": 5.0
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 24.0
+                      "amount": 25.0
                     }
                   ],
                   "labels": [
@@ -259,7 +278,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.0
+                      "amount": 5.5
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -280,7 +299,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -301,7 +320,7 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -322,11 +341,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 6.0
+                      "amount": 6.5
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 27.0
+                      "amount": 30.0
                     }
                   ],
                   "labels": [
@@ -347,7 +366,7 @@
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 32.0
+                      "amount": 30.0
                     }
                   ],
                   "labels": [
@@ -359,12 +378,33 @@
                   "components": []
                 },
                 {
+                  "id": "vins-blancs-secs-domaine-fabien-jouves-les-agudes",
+                  "name": "Domaine Fabien Jouves – Les Agudes",
+                  "prices": [
+                    {
+                      "label": "Verre 12cl",
+                      "amount": 6.5
+                    },
+                    {
+                      "label": "Bouteille 75cl",
+                      "amount": 30.0
+                    }
+                  ],
+                  "labels": [
+                    "Vin nature"
+                  ],
+                  "appellation": "Vin de France",
+                  "grapes": "Colombard, Sauvignon Blanc",
+                  "description": "Au nez comme en bouche, on retrouve des effluves d’agrumes, de cédrat et de discrètes notes de fruits à chair blanche.",
+                  "components": []
+                },
+                {
                   "id": "vins-blancs-secs-domaine-girard-las-salvios",
                   "name": "Domaine Girard – Las Salvios",
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 6.5
+                      "amount": 7.0
                     },
                     {
                       "label": "Bouteille 75cl",
@@ -391,11 +431,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 5.5
+                      "amount": 6.0
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 27.0
+                      "amount": 28.0
                     }
                   ],
                   "labels": [
@@ -416,7 +456,7 @@
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 30.0
+                      "amount": 28.0
                     }
                   ],
                   "labels": [
@@ -439,11 +479,11 @@
                   "prices": [
                     {
                       "label": "Verre 12cl",
-                      "amount": 4.5
+                      "amount": 5.0
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 23.0
+                      "amount": 25.0
                     }
                   ],
                   "labels": [
@@ -516,7 +556,7 @@
                     },
                     {
                       "label": "Bouteille 75cl",
-                      "amount": 34.0
+                      "amount": 33.0
                     }
                   ],
                   "labels": [],
@@ -651,6 +691,21 @@
               "notes": [],
               "items": [
                 {
+                  "id": "cocktails-classiques-jagerbomb",
+                  "name": "Jägerbomb",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 6.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
                   "id": "cocktails-classiques-tipunch",
                   "name": "Ti’Punch",
                   "prices": [
@@ -708,21 +763,6 @@
                   "appellation": null,
                   "grapes": null,
                   "description": "Vodka, liqueur de café, espresso",
-                  "components": []
-                },
-                {
-                  "id": "cocktails-classiques-gin-tonic",
-                  "name": "Gin & Tonic",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 9.0
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": "Gin, tonic",
                   "components": []
                 },
                 {
@@ -801,6 +841,36 @@
                   "components": []
                 },
                 {
+                  "id": "cocktails-classiques-gin-tonic",
+                  "name": "Gin & Tonic",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "cocktails-classiques-gin-tonic-premium",
+                  "name": "Gin & Tonic Premium",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Gin au choix, tonic Fever-Tree",
+                  "components": []
+                },
+                {
                   "id": "cocktails-classiques-old-fashioned",
                   "name": "Old Fashioned",
                   "prices": [
@@ -822,8 +892,8 @@
               "notes": [],
               "items": [
                 {
-                  "id": "cocktails-spritz-aperol-spritz-ou-campari-spritz",
-                  "name": "Aperol Spritz ou Campari Spritz",
+                  "id": "cocktails-spritz-spritz-liqueur-au-choix",
+                  "name": "Spritz liqueur au choix",
                   "prices": [
                     {
                       "label": "Prix",
@@ -833,37 +903,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Prosecco, Perrier, Aperol ou Campari",
-                  "components": []
-                },
-                {
-                  "id": "cocktails-spritz-spritz-mangue-vanille-cassis-citron-ou-orange",
-                  "name": "Spritz mangue, vanille, cassis, citron ou orange",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 10.0
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": "Prosecco, Perrier, liqueur",
-                  "components": []
-                },
-                {
-                  "id": "cocktails-spritz-hugo-spritz",
-                  "name": "Hugo Spritz",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 10.0
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": "Prosecco, Perrier, liqueur de sureau",
+                  "description": "Aperol, Campari, mangue, vanille, cassis, citron, orange, limoncello…",
                   "components": []
                 },
                 {
@@ -878,7 +918,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Prosecco, Perrier, St Germain",
+                  "description": null,
                   "components": []
                 }
               ]
@@ -909,6 +949,21 @@
                   "components": []
                 },
                 {
+                  "id": "liqueurs-et-aperitifs-limoncello",
+                  "name": "Limoncello",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
                   "id": "liqueurs-et-aperitifs-get-27",
                   "name": "Get 27",
                   "prices": [
@@ -926,6 +981,21 @@
                 {
                   "id": "liqueurs-et-aperitifs-baileys-irish-cream",
                   "name": "Baileys Irish Cream",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 5.5
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "liqueurs-et-aperitifs-martini",
+                  "name": "Martini",
                   "prices": [
                     {
                       "label": "Prix",
@@ -966,12 +1036,27 @@
                   "components": []
                 },
                 {
-                  "id": "spiritueux-whisky-glenmorangie-10-ans-original-40",
-                  "name": "Glenmorangie 10 ans Original – 40°",
+                  "id": "spiritueux-whisky-monkey-shoulder-40",
+                  "name": "Monkey Shoulder – 40°",
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 12.0
+                      "amount": 10.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-whisky-tullamore-dew-40",
+                  "name": "Tullamore Dew – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 10.0
                     }
                   ],
                   "labels": [],
@@ -1002,8 +1087,8 @@
               "notes": [],
               "items": [
                 {
-                  "id": "spiritueux-gin-the-botanist-46",
-                  "name": "The Botanist – 46°",
+                  "id": "spiritueux-gin-hendricks-41-4",
+                  "name": "Hendrick’s – 41,4°",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1028,7 +1113,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": null,
+                  "description": "Original, Double Yuzu ou Sakura",
                   "components": []
                 }
               ]
@@ -1038,8 +1123,8 @@
               "notes": [],
               "items": [
                 {
-                  "id": "spiritueux-rhum-diplomatico-reserva-exclusiva-40",
-                  "name": "Diplomatico Reserva Exclusiva – 40°",
+                  "id": "spiritueux-rhum-secha-de-la-silva-40",
+                  "name": "Secha de la Silva – 40°",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1174,11 +1259,11 @@
                   "prices": [
                     {
                       "label": "Demi",
-                      "amount": 4.5
+                      "amount": 5.0
                     },
                     {
                       "label": "Pinte",
-                      "amount": 7.5
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1195,11 +1280,11 @@
                   "prices": [
                     {
                       "label": "Demi",
-                      "amount": 4.5
+                      "amount": 5.0
                     },
                     {
                       "label": "Pinte",
-                      "amount": 7.5
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1308,7 +1393,7 @@
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 7.0
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1316,7 +1401,7 @@
                   ],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Perrier, citron vert, cassonade, sirop de canne, feuilles de menthe, purée de fruit si aromatisé",
+                  "description": null,
                   "components": []
                 },
                 {
@@ -1325,7 +1410,7 @@
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 7.0
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1342,7 +1427,7 @@
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 7.0
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1359,7 +1444,7 @@
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 7.0
+                      "amount": 8.0
                     }
                   ],
                   "labels": [
@@ -1386,23 +1471,6 @@
                   "grapes": null,
                   "description": "Purée de mangue, jus de citron, basilic, miel, Perrier",
                   "components": []
-                },
-                {
-                  "id": "sans-alcool-mocktails-creation-sans-alcool-sur-demande",
-                  "name": "Création sans alcool sur demande",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 8.0
-                    }
-                  ],
-                  "labels": [
-                    "Sans alcool"
-                  ],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": null,
-                  "components": []
                 }
               ]
             },
@@ -1416,7 +1484,7 @@
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 5.5
+                      "amount": 5.0
                     }
                   ],
                   "labels": [
@@ -1494,21 +1562,6 @@
                   "grapes": null,
                   "description": null,
                   "components": []
-                },
-                {
-                  "id": "sans-alcool-softs-supplement-sirop",
-                  "name": "Supplément sirop",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 0.5
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": null,
-                  "components": []
                 }
               ]
             }
@@ -1555,14 +1608,14 @@
                     "Jambon Duroc affiné 24 mois ; provenance Guijuelo",
                     "Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles",
                     "Chorizo ibérique ; provenance Salamanca",
-                    "Saucisson ibérique ; provenance Salamanca",
                     "Coppa ; provenance Navarcles",
                     "Sobrasada de Mallorca douce",
                     "Chorizo grillé ; provenance Vic",
                     "AOP Comté de Montagne 5 à 7 mois d’affinage ; provenance Jura",
-                    "AOP Fourme d’Ambert ; provenance Auvergne",
                     "Cabécou Cabri d’Oc ; provenance Tarn",
-                    "AOP Tête de Moine ; provenance Suisse"
+                    "AOP Tête de Moine ; provenance Suisse",
+                    "Tomme à l’ail des ours",
+                    "Brie à la truffe"
                   ]
                 },
                 {
@@ -1619,13 +1672,12 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Servis avec sauce bravas et chutney de menthe",
+                  "description": "Supplément frites : 2,00 €",
                   "components": [
                     "Mozzarella sticks",
                     "Chicken wings",
                     "Beignets de calamars",
-                    "Onion rings",
-                    "Potatoes"
+                    "Onion rings"
                   ]
                 }
               ]
@@ -1709,8 +1761,8 @@
                   "components": []
                 },
                 {
-                  "id": "tapas-jambon-duroc-affine-24-mois-ou-plus",
-                  "name": "Jambon Duroc affiné 24 mois ou plus",
+                  "id": "tapas-jambon-duroc-affine-24-mois",
+                  "name": "Jambon Duroc affiné 24 mois",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1777,25 +1829,8 @@
                   "components": []
                 },
                 {
-                  "id": "tapas-uf-cocotte",
-                  "name": "Œuf cocotte",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 6.5
-                    }
-                  ],
-                  "labels": [
-                    "Fait maison"
-                  ],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": null,
-                  "components": []
-                },
-                {
-                  "id": "tapas-guacamole",
-                  "name": "Guacamole",
+                  "id": "tapas-ramequin-de-tartinade-au-choix",
+                  "name": "Ramequin de tartinade au choix",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1807,12 +1842,12 @@
                   ],
                   "appellation": null,
                   "grapes": null,
-                  "description": null,
+                  "description": "Tomatade, guacamole, pan con tomate ou caviar d’aubergine",
                   "components": []
                 },
                 {
-                  "id": "tapas-garlic-bread",
-                  "name": "Garlic bread",
+                  "id": "tapas-pain-a-lail",
+                  "name": "Pain à l’ail",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1833,9 +1868,7 @@
         },
         {
           "name": "Fingerfood",
-          "notes": [
-            "Servis avec une sauce bravas ou un chutney de menthe."
-          ],
+          "notes": [],
           "groups": [
             {
               "name": null,
@@ -1902,12 +1935,12 @@
                   "components": []
                 },
                 {
-                  "id": "fingerfood-potatoes",
-                  "name": "Potatoes",
+                  "id": "fingerfood-frites",
+                  "name": "Frites",
                   "prices": [
                     {
                       "label": "Prix",
-                      "amount": 5.5
+                      "amount": 5.0
                     }
                   ],
                   "labels": [],
