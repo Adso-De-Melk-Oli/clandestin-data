@@ -30,7 +30,7 @@ ROLES = {
     "labels": "labels",
     "note": "note",
 }
-LABELS = {"Bio", "HVE", "Terra Vitis", "Agriculture raisonnée", "Fait maison", "Sans alcool", "Végétarien"}
+LABELS = {"Bio", "HVE", "Terra Vitis", "Agriculture raisonnée", "Fait maison", "Sans alcool", "Végétarien", "Vin nature"}
 PRICE_RE = re.compile(r"^(\d+(?:[.,]\d{1,2})?)\s*€$")
 NO_PRICE = {"—", "-", "–"}
 MAX_DROP = 0.30  # baisse maximale du nombre d'articles tolérée sans --force

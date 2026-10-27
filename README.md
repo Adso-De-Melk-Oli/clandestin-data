@@ -43,7 +43,7 @@ Si le bar envoie une carte dans une autre mise en forme, la faire remettre au fo
   Une nouvelle ligne Formats peut changer les colonnes en cours de route (ex. boules de glace).
 - Un article a **autant de prix que de colonnes**. Pas de prix dans une colonne : mettre `—`.
 - Prix au format `6,00 €` (ou `6 €`).
-- Labels autorisés : Bio, HVE, Terra Vitis, Agriculture raisonnée, Fait maison, Sans alcool, Végétarien.
+- Labels autorisés : Bio, HVE, Terra Vitis, Agriculture raisonnée, Vin nature, Fait maison, Sans alcool, Végétarien.
 - Pas de tableau, pas d’autre style (en particulier pas de « Normal » avec du gras à la place d’un titre).
 - Si la carte a beaucoup moins d’articles qu’avant (plus de 30 % en moins), la publication est bloquée
   par sécurité. Si c’est voulu : onglet *Actions › Compiler la carte › Run workflow* en cochant « Publier même si… ».
