@@ -19,7 +19,10 @@ Le code de l’application est dans un dépôt privé séparé.
    - carte incorrecte → rien n’est publié, l’appli garde l’ancienne carte, et GitHub envoie un e-mail
      avec la liste des problèmes (ex. « paragraphe 118 : prix illisible »).
 
-Si le bar envoie une carte dans une autre mise en forme, la faire remettre au format du modèle avant de la déposer.
+**Carte du bar dans sa propre mise en forme** (Word ou PDF) : la déposer telle quelle dans `MENU/`, sous n’importe quel nom.
+Une tâche planifiée (Claude), toutes les heures de 8h à 23h, la remet au format du modèle en suivant
+`tools/CONVERSION.md`, vérifie tous les prix, puis la publie. En cas de doute, rien n’est publié et la question
+est notée dans `MENU/A-VERIFIER.txt`.
 
 ## Les styles (menu Styles de Word)
 
