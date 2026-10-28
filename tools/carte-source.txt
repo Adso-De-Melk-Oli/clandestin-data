@@ -40,7 +40,7 @@ A: Domaine Jean-Baptiste Senat – Arbalètes et Coquelicots | 6,50 € | 30,00 
 AP: IGP Pays d’Oc
 CE: 70% Carignan, 15% Grenache, 15% Mourvèdre
 D: Robe claire et vive aux contours violacés. Bouche sur le fruit, la fraîcheur, la senteur et la vivacité.
-A: Domaine Girard – Pinot Noir | 7,00 € | 32,00 €
+A: Domaine Girard – Pinot Noir | 7,00 € | 32,00 € | HVE
 AP: IGP Pays d’Oc
 CE: 100% Pinot Noir
 D: Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.
@@ -129,7 +129,6 @@ A: Le Velvet Passion | 10,00 €
 D: Vodka, liqueur de vanille, purée de fruit de la passion, citron vert, Perrier
 A: La Groupie du Pianiste | 12,00 €
 D: Cognac, amaretto, jus de citron vert, jus de cranberry, bitter pêche
-A: Cocktail création sur demande | 12,00 €
 H2: Classiques
 F: Prix
 A: Jägerbomb | 6,00 €
@@ -155,7 +154,7 @@ A: Gin & Tonic | 10,00 €
 A: Gin & Tonic Premium | 12,00 €
 D: Gin au choix, tonic Fever-Tree
 A: Old Fashioned | 12,00 €
-D: Glenmorangie, sucre, Perrier, Angostura
+D: Balvenie, sucre, Perrier, Angostura
 H2: Spritz
 F: Prix
 A: Spritz liqueur au choix | 9,00 €
@@ -168,16 +167,21 @@ A: Limoncello | 5,00 €
 A: Get 27 | 5,50 €
 A: Baileys Irish Cream | 5,50 €
 A: Martini | 5,50 €
+A: Irish Coffee | 7,00 €
 H1: Spiritueux
 H2: Whisky
 F: Prix
 A: Bulleit Bourbon – 45° | 10,00 €
 A: Monkey Shoulder – 40° | 10,00 €
+D: Original ou Smokey
 A: Tullamore Dew – 40° | 10,00 €
 A: Talisker Port Ruighe – 45,8° | 12,00 €
+A: Balvenie 12 ans – 40° | 12,00 €
+A: Glenfiddich 12 ans – 40° | 12,00 €
 H2: Gin
 F: Prix
 A: Hendrick’s – 41,4° | 10,00 €
+D: Original ou Another
 A: Etsu – 43° | 10,00 €
 D: Original, Double Yuzu ou Sakura
 H2: Rhum
@@ -217,6 +221,8 @@ A: Le Basil Fields Forever | 8,00 € | | Sans alcool
 D: Purée de fraise, jus de citron vert, sirop basilic, Perrier
 A: Oxford Mango | 8,00 € | | Sans alcool
 D: Purée de mangue, jus de citron, basilic, miel, Perrier
+A: Le Pulpe Fiction | 8,00 € | | Sans alcool
+D: Purée de passion, jus de citron, jus d’ananas, jus d’orange, sirop de grenadine, Perrier
 H2: Softs
 F: Prix
 A: Bière sans alcool | 5,00 € | | Sans alcool
@@ -231,17 +237,19 @@ N: À partager, ou pas…
 F: Demi planche | Planche
 A: La Clandestine | 16,00 € | 30,00 € | Fait maison
 D: Assortiment de charcuterie ibérique et italienne, et de fromages au lait cru
-C: Jambon Duroc affiné 24 mois ; provenance Guijuelo
-C: Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles
-C: Chorizo ibérique ; provenance Salamanca
-C: Coppa ; provenance Navarcles
-C: Sobrasada de Mallorca douce
-C: Chorizo grillé ; provenance Vic
+C: Jambon Duroc affiné 24 mois ; provenance Guijuelo, Espagne
+C: Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles, Espagne
+C: Chorizo ibérique ; provenance Salamanca, Espagne
+C: Coppa catalane ; provenance Navarcles, Espagne
+C: Lomo ; provenance Soria, Espagne
+C: Chorizo grillé ; provenance Vic, Espagne
 C: AOP Comté de Montagne 5 à 7 mois d’affinage ; provenance Jura
 C: Cabécou Cabri d’Oc ; provenance Tarn
 C: AOP Tête de Moine ; provenance Suisse
-C: Tomme à l’ail des ours
-C: Brie à la truffe
+C: Tomme à l’ail des ours ; provenance Jura
+C: Brie à la truffe ; provenance Lot-et-Garonne
+C: Manchego 6 mois d’affinage ; provenance Castilla-La Mancha, Espagne
+C: Brebis miel & origan ; provenance Castilla-La Mancha, Espagne
 A: L’Ibérica | 17,00 € | 32,00 € | Fait maison
 D: Assortiment de charcuterie ibérique et italienne
 A: La Ronde des Fromages | 14,00 € | 27,00 € | Fait maison
@@ -256,11 +264,9 @@ C: Onion rings
 H1: Tapas
 F: Prix
 A: Tataki de bœuf | 10,00 € | | Fait maison
-A: Camembert rôti | 10,00 € | | Fait maison
+A: Camembert rôti au miel et aux herbes | 10,00 € | | Fait maison
 A: Toasts de magret de canard (4 pièces) | 8,00 € | | Fait maison
 D: Magret de canard au piment d’Espelette, salade assaisonnée et son toast grillé
-A: Burrata | 8,00 € | | Fait maison
-D: Accompagnée de son pesto maison et de tomates cerises
 A: Jambon Duroc affiné 24 mois | 7,50 € | | Fait maison
 A: Pintxos crevettes marinées & guacamole (4 pièces) | 7,00 € | | Fait maison
 A: Brochettes de bœuf au fromage (4 pièces) | 7,00 € | | Fait maison
@@ -278,12 +284,11 @@ A: Frites | 5,00 €
 H1: Desserts
 F: Prix
 A: Muffin à la châtaigne | 6,00 €
-D: Supplément boule de glace : 2,00 €
+D: Supplément boule de glace : 1,00 €
 A: Fondant au chocolat | 5,00 €
-D: Supplément boule de glace : 2,00 €
+D: Supplément boule de glace : 1,00 €
 F: 1 boule | 2 boules | 3 boules
 A: Boules de glace | 3,50 € | 5,00 € | 6,00 €
-D: Vanille, pistache, mangue, citron, chocolat, framboise, rhum-raisin
+D: Vanille, pistache, citron, chocolat, framboise
 F: Prix
-A: Supplément café, thé ou infusion avec le dessert | 1,00 €
 A: Supplément chantilly | 0,50 €
