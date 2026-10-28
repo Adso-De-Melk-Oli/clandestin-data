@@ -27,19 +27,137 @@ est notée dans `MENU/A-VERIFIER.txt`.
 
 ## Annoncer une fermeture exceptionnelle
 
-1. Ouvrir `FERMETURES.md` sur GitHub, cliquer sur le crayon (*Edit*).
-2. Copier un des modèles sous la ligne « Écrire les fermetures ci-dessous », changer la date et le message :
-   ```
-   ## 28/10/2026
-   Type : intempérie
-   Message : Alerte orange orages, on préfère vous garder au sec.
-   Réouverture : 29/10/2026 à 18h
-   ```
-3. *Commit changes*. L’action **Publier les fermetures** contrôle le fichier et publie `fermetures.json`
-   (environ 1 minute, plus 5 minutes de cache). L’appli l’affiche à sa prochaine ouverture : bandeau rouge
-   sur l’accueil et dans Infos, soirées du jour barrées « Annulé · bar fermé ».
-4. Une date mal écrite bloque la publication et GitHub envoie un e-mail. Le bandeau disparaît tout seul
-   à la réouverture.
+Tout se passe dans le fichier `FERMETURES.md`, directement sur GitHub :
+
+1. Ouvrir `FERMETURES.md`, cliquer sur le crayon (*Edit*).
+2. Sous la ligne « Écrire les fermetures ci-dessous », écrire la fermeture (modèles ci-dessous).
+3. Cliquer sur *Commit changes*.
+
+L’action **Publier les fermetures** contrôle le fichier et publie `fermetures.json` en 1 minute environ,
+plus 5 minutes de cache. L’appli l’affiche à sa prochaine ouverture (et toutes les 6 h en arrière-plan) :
+
+- bandeau rouge sur l’accueil et en tête d’Infos ;
+- jour fermé en tête du bloc Horaires ;
+- soirées de l’agenda tombant ce jour-là barrées « Annulé · bar fermé » ;
+- programme habituel (piano bar, soirée diversité) retiré ces soirs-là.
+
+Le bandeau apparaît 7 jours avant (réglable) et disparaît tout seul après le dernier jour fermé.
+Inutile d’effacer les fermetures passées.
+
+### Les lignes possibles
+
+Une fermeture = une ligne de date qui commence par `## `, puis les lignes voulues. Seule la date est obligatoire.
+
+| Ligne | Obligatoire | Ce qu’elle fait | Si on ne l’écrit pas |
+|---|---|---|---|
+| `## 28/10/2026` | oui | Un seul soir | — |
+| `## 21/12/2026 → 04/01/2027` | oui | Plusieurs soirs, premier et dernier inclus | — |
+| `Type : …` | non | intempérie, imprévu, congés, travaux ou privatisation (voir les cas) | imprévu |
+| `Message : …` | non | Le petit texte lu par les clients, une seule ligne | pas de texte |
+| `Réouverture : 29/10/2026 à 18h` | non | La date et l’heure annoncées dans le bandeau | la prochaine ouverture habituelle (18h, sauf le lundi) |
+| `Annonce : 14 jours avant` | non | Dès quand l’appli affiche le bandeau ; `0 jour` = seulement le jour même | 7 jours avant |
+| `Horaires : …` | non | Le bar **n’est pas fermé**, seuls ses horaires changent | fermeture complète |
+
+### Tous les cas de figure
+
+**1. Orage, alerte météo, le soir même** : bandeau avec un nuage d’orage, « Fermé ce soir, mercredi 28 octobre ».
+```
+## 28/10/2026
+Type : intempérie
+Message : Alerte orange orages, on préfère vous garder au sec.
+Réouverture : 29/10/2026 à 18h
+```
+
+**2. Imprévu : panne, dégât des eaux, équipe malade** : bandeau « Fermeture exceptionnelle ».
+```
+## 14/11/2026
+Type : imprévu
+Message : Petit souci technique, on se retrouve demain soir.
+```
+
+**3. Plusieurs jours d’imprévu, réouverture encore inconnue** : écrire une date de fin prudente, sans réouverture,
+puis corriger le fichier dès qu’on en sait plus (l’appli suit en quelques minutes).
+```
+## 14/11/2026 → 18/11/2026
+Type : imprévu
+Message : Dégât des eaux, on vous tient au courant sur Instagram.
+```
+
+**4. Congés** : bandeau « Fermeture pour congés », annoncé 14 jours avant, « Fermé jusqu’au lundi 4 janvier inclus »
+pendant les congés, et la réouverture calculée toute seule (mardi 5 janvier à 18h).
+```
+## 21/12/2026 → 04/01/2027
+Type : congés
+Annonce : 14 jours avant
+Message : Belles fêtes à tous !
+```
+
+**5. Travaux** : bandeau « Fermeture pour travaux ».
+```
+## 02/02/2027 → 07/02/2027
+Type : travaux
+Message : On rafraîchit la salle, réouverture avec une soirée spéciale.
+Réouverture : 09/02/2027 à 18h
+```
+
+**6. Privatisation de toute la soirée** : bandeau « Bar privatisé », bar fermé au public.
+```
+## 20/11/2026
+Type : privatisation
+Message : Soirée privée, merci de votre compréhension.
+```
+
+**7. Privatisation d’une partie de la soirée** : le bar reste ouvert, bandeau « Horaires modifiés le samedi
+7 novembre » ; les soirées ne sont pas annulées.
+```
+## 07/11/2026
+Type : privatisation
+Horaires : ouvert au public jusqu'à 20h
+```
+Même principe pour une ouverture plus tardive : `Horaires : ouvert au public à partir de 21h`.
+
+**8. Fermeture plus tôt que d’habitude, sans privatisation** (soir de match, manque de personnel…) :
+```
+## 31/12/2026
+Type : imprévu
+Horaires : fermeture à 23h ce soir
+```
+
+**9. Prévenir longtemps à l’avance** : changer l’annonce, par exemple `Annonce : 30 jours avant`.
+
+**10. Prévenir seulement le jour même** : `Annonce : 0 jour`.
+
+**11. Prolonger une fermeture** : changer la date de fin (et la réouverture si elle était écrite), puis *Commit changes*.
+
+**12. Annuler une fermeture** (l’orage est passé, on rouvre finalement) : effacer son bloc, puis *Commit changes*.
+Le bandeau disparaît à la prochaine ouverture de l’appli, et les soirées redeviennent normales.
+
+**13. Plusieurs fermetures prévues** : un bloc par fermeture, dans n’importe quel ordre. L’appli met en avant la plus
+proche ; les autres apparaissent dans le bloc Horaires dès leur période d’annonce.
+
+**14. Une soirée était déjà annoncée sur le site** : rien à faire dans l’agenda, l’appli la barre « Annulé · bar fermé ».
+Penser quand même à la retirer du site pour les visiteurs du site.
+
+**Ce que ce fichier ne fait pas** : il annonce des fermetures et des horaires modifiés, pas des ouvertures en plus.
+Une soirée exceptionnelle un lundi (jour normalement fermé) s’ajoute dans l’agenda du site comme les autres soirées.
+
+### Bien écrire les dates
+
+- Toujours jour/mois/année : `28/10/2026` (l’année sur 2 chiffres marche aussi : `28/10/26`).
+- Entre deux dates : `→`, `->`, `au` ou un tiret : `21/12/2026 au 04/01/2027`.
+- Les heures : `18h`, `18h30`, `18:30`. Sans heure, la réouverture est à 18h.
+- Le texte entre `<!--` et `-->` est ignoré : pratique pour garder un brouillon.
+
+### Ce qui bloque la publication
+
+Rien n’est publié (l’appli garde la version d’avant) et GitHub envoie un e-mail qui dit quelle ligne corriger si :
+
+- une date est impossible ou mal écrite (`32/10/2026`, `28-10-2026`) ;
+- la date de fin est avant la date de début ;
+- la fermeture dure plus de deux mois (souvent une erreur d’année) ;
+- la réouverture n’est pas après le dernier jour fermé ;
+- le type est inconnu (par ex. `Type : orage` → écrire `intempérie`) ;
+- une ligne n’a pas de « : » ou commence par un mot inconnu (par ex. `Couleur : rouge`).
 
 ## Les styles (menu Styles de Word)
 

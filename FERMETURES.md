@@ -12,6 +12,9 @@ Une fermeture = une ligne qui commence par `## ` avec la date, puis quelques lig
 - `Annonce :` (facultatif) par ex. `14 jours avant` ; par défaut l'appli l'affiche 7 jours avant
 - `Horaires :` (facultatif) le bar n'est **pas** fermé, seuls ses horaires changent (par ex. `ouvert au public jusqu'à 20h`)
 
+Tous les cas de figure (orage, congés, privatisation d'une partie de la soirée, annulation…) sont expliqués
+dans le README du dépôt, rubrique « Annoncer une fermeture exceptionnelle ».
+
 Modèles à copier (ils sont dans un commentaire, l'appli ne les lit pas) :
 
 <!--
