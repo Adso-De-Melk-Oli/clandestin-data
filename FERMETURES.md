@@ -157,8 +157,3 @@ qui dit quelle ligne corriger si :
 -->
 
 <!-- Écrire les fermetures ci-dessous. -->
-
-## 28/10/2026
-Type : intempérie
-Message : Alerte météo : on préfère vous garder au sec. À très vite !
-Annonce : 0 jour avant
