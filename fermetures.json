@@ -1,13 +1,5 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-28T21:18:30+00:00",
-  "closures": [
-    {
-      "from": "2026-10-28",
-      "to": "2026-10-28",
-      "type": "intempérie",
-      "message": "Alerte météo : on préfère vous garder au sec. À très vite !",
-      "announceDays": 0
-    }
-  ]
+  "generatedAt": "2026-10-28T21:19:10+00:00",
+  "closures": []
 }
