@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-27T13:46:32+00:00",
+  "generatedAt": "2026-10-28T15:19:55+00:00",
   "source": "Carte Clandestin - modele.docx",
-  "itemCount": 105,
+  "itemCount": 106,
   "notes": [
     "L’abus d’alcool est dangereux pour la santé. À consommer avec modération.",
     "La maison n’accepte plus les chèques."
@@ -220,7 +220,9 @@
                       "amount": 32.0
                     }
                   ],
-                  "labels": [],
+                  "labels": [
+                    "HVE"
+                  ],
                   "appellation": "IGP Pays d’Oc",
                   "grapes": "100% Pinot Noir",
                   "description": "Fructuosité intense avec une légère note balsamique et résineuse. Texture tannique fine avec finale juteuse et fruitée.",
@@ -668,21 +670,6 @@
                   "grapes": null,
                   "description": "Cognac, amaretto, jus de citron vert, jus de cranberry, bitter pêche",
                   "components": []
-                },
-                {
-                  "id": "cocktails-signatures-cocktail-creation-sur-demande",
-                  "name": "Cocktail création sur demande",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 12.0
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": null,
-                  "components": []
                 }
               ]
             },
@@ -882,7 +869,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Glenmorangie, sucre, Perrier, Angostura",
+                  "description": "Balvenie, sucre, Perrier, Angostura",
                   "components": []
                 }
               ]
@@ -1007,6 +994,21 @@
                   "grapes": null,
                   "description": null,
                   "components": []
+                },
+                {
+                  "id": "liqueurs-et-aperitifs-irish-coffee",
+                  "name": "Irish Coffee",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 7.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
                 }
               ]
             }
@@ -1047,7 +1049,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": null,
+                  "description": "Original ou Smokey",
                   "components": []
                 },
                 {
@@ -1079,6 +1081,36 @@
                   "grapes": null,
                   "description": null,
                   "components": []
+                },
+                {
+                  "id": "spiritueux-whisky-balvenie-12-ans-40",
+                  "name": "Balvenie 12 ans – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
+                },
+                {
+                  "id": "spiritueux-whisky-glenfiddich-12-ans-40",
+                  "name": "Glenfiddich 12 ans – 40°",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 12.0
+                    }
+                  ],
+                  "labels": [],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": null,
+                  "components": []
                 }
               ]
             },
@@ -1098,7 +1130,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": null,
+                  "description": "Original ou Another",
                   "components": []
                 },
                 {
@@ -1471,6 +1503,23 @@
                   "grapes": null,
                   "description": "Purée de mangue, jus de citron, basilic, miel, Perrier",
                   "components": []
+                },
+                {
+                  "id": "sans-alcool-mocktails-le-pulpe-fiction",
+                  "name": "Le Pulpe Fiction",
+                  "prices": [
+                    {
+                      "label": "Prix",
+                      "amount": 8.0
+                    }
+                  ],
+                  "labels": [
+                    "Sans alcool"
+                  ],
+                  "appellation": null,
+                  "grapes": null,
+                  "description": "Purée de passion, jus de citron, jus d’ananas, jus d’orange, sirop de grenadine, Perrier",
+                  "components": []
                 }
               ]
             },
@@ -1605,17 +1654,19 @@
                   "grapes": null,
                   "description": "Assortiment de charcuterie ibérique et italienne, et de fromages au lait cru",
                   "components": [
-                    "Jambon Duroc affiné 24 mois ; provenance Guijuelo",
-                    "Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles",
-                    "Chorizo ibérique ; provenance Salamanca",
-                    "Coppa ; provenance Navarcles",
-                    "Sobrasada de Mallorca douce",
-                    "Chorizo grillé ; provenance Vic",
+                    "Jambon Duroc affiné 24 mois ; provenance Guijuelo, Espagne",
+                    "Saucisson artisanal haché fin « Longaniza » ; provenance Navarcles, Espagne",
+                    "Chorizo ibérique ; provenance Salamanca, Espagne",
+                    "Coppa catalane ; provenance Navarcles, Espagne",
+                    "Lomo ; provenance Soria, Espagne",
+                    "Chorizo grillé ; provenance Vic, Espagne",
                     "AOP Comté de Montagne 5 à 7 mois d’affinage ; provenance Jura",
                     "Cabécou Cabri d’Oc ; provenance Tarn",
                     "AOP Tête de Moine ; provenance Suisse",
-                    "Tomme à l’ail des ours",
-                    "Brie à la truffe"
+                    "Tomme à l’ail des ours ; provenance Jura",
+                    "Brie à la truffe ; provenance Lot-et-Garonne",
+                    "Manchego 6 mois d’affinage ; provenance Castilla-La Mancha, Espagne",
+                    "Brebis miel & origan ; provenance Castilla-La Mancha, Espagne"
                   ]
                 },
                 {
@@ -1710,8 +1761,8 @@
                   "components": []
                 },
                 {
-                  "id": "tapas-camembert-roti",
-                  "name": "Camembert rôti",
+                  "id": "tapas-camembert-roti-au-miel-et-aux-herbes",
+                  "name": "Camembert rôti au miel et aux herbes",
                   "prices": [
                     {
                       "label": "Prix",
@@ -1741,23 +1792,6 @@
                   "appellation": null,
                   "grapes": null,
                   "description": "Magret de canard au piment d’Espelette, salade assaisonnée et son toast grillé",
-                  "components": []
-                },
-                {
-                  "id": "tapas-burrata",
-                  "name": "Burrata",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 8.0
-                    }
-                  ],
-                  "labels": [
-                    "Fait maison"
-                  ],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": "Accompagnée de son pesto maison et de tomates cerises",
                   "components": []
                 },
                 {
@@ -1973,7 +2007,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Supplément boule de glace : 2,00 €",
+                  "description": "Supplément boule de glace : 1,00 €",
                   "components": []
                 },
                 {
@@ -1988,7 +2022,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Supplément boule de glace : 2,00 €",
+                  "description": "Supplément boule de glace : 1,00 €",
                   "components": []
                 },
                 {
@@ -2011,22 +2045,7 @@
                   "labels": [],
                   "appellation": null,
                   "grapes": null,
-                  "description": "Vanille, pistache, mangue, citron, chocolat, framboise, rhum-raisin",
-                  "components": []
-                },
-                {
-                  "id": "desserts-supplement-cafe-the-ou-infusion-avec-le-dessert",
-                  "name": "Supplément café, thé ou infusion avec le dessert",
-                  "prices": [
-                    {
-                      "label": "Prix",
-                      "amount": 1.0
-                    }
-                  ],
-                  "labels": [],
-                  "appellation": null,
-                  "grapes": null,
-                  "description": null,
+                  "description": "Vanille, pistache, citron, chocolat, framboise",
                   "components": []
                 },
                 {
