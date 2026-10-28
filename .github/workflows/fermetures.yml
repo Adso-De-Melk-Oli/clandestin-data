@@ -1,0 +1,47 @@
+name: Publier les fermetures
+
+# Se lance à chaque modification de FERMETURES.md (ou à la main depuis l'onglet Actions).
+on:
+  push:
+    branches: [main]
+    paths: ["FERMETURES.md", "tools/parse_fermetures.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fermetures
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lire et contrôler FERMETURES.md
+        run: python tools/parse_fermetures.py FERMETURES.md fermetures.new.json
+
+      - name: Publier fermetures.json
+        run: |
+          if [ -f fermetures.json ] && python - <<'EOF'
+          import json, sys
+          a = json.load(open("fermetures.json")); b = json.load(open("fermetures.new.json"))
+          for d in (a, b): d.pop("generatedAt", None)
+          sys.exit(0 if a == b else 1)
+          EOF
+          then
+            echo "Fermetures inchangées : rien à publier."
+            exit 0
+          fi
+          mv fermetures.new.json fermetures.json
+          git config user.name "carte-bot"
+          git config user.email "carte-bot@users.noreply.github.com"
+          git add fermetures.json
+          git commit -m "Fermetures publiées ($(date -u +%Y-%m-%d))"
+          git push

@@ -1,6 +1,6 @@
 # Le Clandestin — données publiques de l’application
 
-Ce dépôt est public : il ne contient que la carte du bar, lue par l’application Android/iOS.
+Ce dépôt est public : il ne contient que la carte du bar et ses fermetures exceptionnelles, lues par l’application Android/iOS.
 Le code de l’application est dans un dépôt privé séparé.
 
 - `menu.json` : la carte publiée, lue par l’appli
@@ -8,6 +8,7 @@ Le code de l’application est dans un dépôt privé séparé.
 - `MENU/Carte Clandestin - modele.docx` : la carte au format Word « modèle propre ».
 - `MENU/archives/` : cartes d’origine du bar (PDF, Word), pour mémoire. Elles ne sont pas lues.
 - `tools/parse_menu.py` : le script qui lit le Word et produit `menu.json`.
+- `FERMETURES.md` : les fermetures exceptionnelles (intempérie, congés, travaux, privatisation), publiées dans `fermetures.json`.
 
 ## Changer la carte
 
@@ -15,7 +16,7 @@ Le code de l’application est dans un dépôt privé séparé.
    en respectant les styles ci-dessous.
 2. Le déposer ici, dans `MENU/` (bouton *Add file › Upload files* sur GitHub).
 3. L’action **Compiler la carte** se lance toute seule (onglet *Actions*) :
-   - carte correcte → `menu.json` est mis à jour, l’appli la récupère à sa prochaine vérification (une fois par jour) ;
+   - carte correcte → `menu.json` est mis à jour, l’appli la récupère à sa prochaine ouverture (elle vérifie à chaque ouverture) ;
    - carte incorrecte → rien n’est publié, l’appli garde l’ancienne carte, et GitHub envoie un e-mail
      avec la liste des problèmes (ex. « paragraphe 118 : prix illisible »).
 
@@ -23,6 +24,22 @@ Le code de l’application est dans un dépôt privé séparé.
 Une tâche planifiée (Claude), toutes les heures de 8h à 23h, la remet au format du modèle en suivant
 `tools/CONVERSION.md`, vérifie tous les prix, puis la publie. En cas de doute, rien n’est publié et la question
 est notée dans `MENU/A-VERIFIER.txt`.
+
+## Annoncer une fermeture exceptionnelle
+
+1. Ouvrir `FERMETURES.md` sur GitHub, cliquer sur le crayon (*Edit*).
+2. Copier un des modèles sous la ligne « Écrire les fermetures ci-dessous », changer la date et le message :
+   ```
+   ## 28/10/2026
+   Type : intempérie
+   Message : Alerte orange orages, on préfère vous garder au sec.
+   Réouverture : 29/10/2026 à 18h
+   ```
+3. *Commit changes*. L’action **Publier les fermetures** contrôle le fichier et publie `fermetures.json`
+   (environ 1 minute, plus 5 minutes de cache). L’appli l’affiche à sa prochaine ouverture : bandeau rouge
+   sur l’accueil et dans Infos, soirées du jour barrées « Annulé · bar fermé ».
+4. Une date mal écrite bloque la publication et GitHub envoie un e-mail. Le bandeau disparaît tout seul
+   à la réouverture.
 
 ## Les styles (menu Styles de Word)
 
